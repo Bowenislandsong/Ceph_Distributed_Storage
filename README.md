@@ -1,6 +1,6 @@
 # Project 2: Implementing “always on” end-to-end tracing in the Ceph distributed storage service
 
-Mentors:  Mania Abdi (mania.abdi287@gmail.com), Raja Sambasivan (rrs@bu.edu), Peter Portante (pportant@redhat.com)
+Mentors:  Mania Abdi, Raja Sambasivan, Peter Portante 
 
 Golsana Ghaemi
 Bowen Song (sbowen@bu.edu)
